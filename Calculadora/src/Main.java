@@ -33,7 +33,7 @@ public class Main {
 				System.out.println("A multiplicação é: " + multiplicacao);
 				break;
 			case 4: 
-				if(n1>n2) {
+				if(n2 == 0) {
 					System.out.println("Impossível realizar a operação.");
 				} 
 				else {
